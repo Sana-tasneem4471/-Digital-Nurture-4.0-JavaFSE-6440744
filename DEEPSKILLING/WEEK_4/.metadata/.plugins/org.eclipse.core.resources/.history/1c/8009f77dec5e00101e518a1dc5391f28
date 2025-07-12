@@ -1,0 +1,5 @@
+package com.cognizant.spring_learn1;
+
+public class HelloController {
+
+}

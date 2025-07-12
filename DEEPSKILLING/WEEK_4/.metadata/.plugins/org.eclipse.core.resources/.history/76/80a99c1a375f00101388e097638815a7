@@ -1,0 +1,5 @@
+package com.cognizant.jwt.controller;
+
+public class AuthenticationController {
+
+}

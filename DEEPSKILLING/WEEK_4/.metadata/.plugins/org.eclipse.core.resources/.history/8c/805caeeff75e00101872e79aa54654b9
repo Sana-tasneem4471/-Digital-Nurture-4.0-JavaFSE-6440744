@@ -1,0 +1,6 @@
+# Enable debug logging globally
+logging.level.root=DEBUG
+
+# Optional: Enable debug logging only for your package
+# Replace with your actual base package if different
+logging.level.com.cognizant.spring_rest_handson4=DEBUG

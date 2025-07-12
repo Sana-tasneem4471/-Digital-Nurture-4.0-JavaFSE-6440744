@@ -1,0 +1,5 @@
+package com.cognizant.jwt.util;
+
+public class JwtUtil {
+
+}

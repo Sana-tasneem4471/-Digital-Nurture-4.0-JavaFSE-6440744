@@ -1,0 +1,5 @@
+package com.cognizant.restcountrywebservice.model;
+
+public class RestCountryWebServiceApplication {
+
+}
